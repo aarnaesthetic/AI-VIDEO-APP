@@ -1,0 +1,60 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    font-family: cursive;
+    background-color: pink;
+    width: 100%;
+    margin: 0px;
+    color: black;
+
+}
+
+#start
+{
+font-size: 20px;
+font-family: cursive;
+color: black;
+background-color: mediumpurple;
+}
+
+
+.heading:hover
+{
+    background-color: hotpink;
+}
+
+
+.copy_right_footer
+{
+    bottom: 0px;
+    width: 100%;
+    background-color: indianred;
+    position: fixed;
+    color: black;
+    text-align: center;
+    line-height: 3;
+}
+
+
+canvas
+{
+    border: 2px solid white;
+    margin-top:130px;
+    border-radius: 10px;
+
+
+    
+}
+
+#number_of_objects,#status
+{
+font-size: 20px;
+font-family: cursive;
+color: black;
+background-color: #a8b1ff;
+}
